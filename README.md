@@ -1,7 +1,9 @@
 # Altiros Homebrew Tap
 
 ```sh
-brew install --cask altiros/tap/crowsnest
+brew tap altiros/tap
+brew trust altiros/tap   # current Homebrew requires trusting third-party taps once
+brew install --cask crowsnest
 ```
 
 | Cask | |
