@@ -1,6 +1,6 @@
 cask "crowsnest" do
-  version "0.2.0"
-  sha256 "929966dd2f6118cea739201e326ec6785d8886193bf4a3ad6326cec819df9397"
+  version "0.3.0"
+  sha256 "ef317bc7fd55e5edf65952087901cefd3587bd3fdd9f997acfa39e2046c936b5"
 
   url "https://github.com/altiros/crowsnest/releases/download/v#{version}/Crowsnest-#{version}.zip"
   name "Crowsnest"
